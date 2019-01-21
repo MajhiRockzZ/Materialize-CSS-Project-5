@@ -1,3 +1,3 @@
 # Galappear
 
-## Graphic design porffolio.
+## Graphic design portfolio.
