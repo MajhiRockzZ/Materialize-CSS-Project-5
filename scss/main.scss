@@ -31,3 +31,14 @@ body {
         padding-top: 30px;
     }
 }
+
+.img-content {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height:300px ;
+}
+
+.card-content {
+    color: $primary-color;
+}
