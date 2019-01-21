@@ -4,8 +4,20 @@
 $header-bg: url(../img/pattern.png);
 $header-height: 300px;
 
+// Text Color Function
+@function set-text-color($color) {
+    @if(lightness($color) > 50) {
+        @return #000;
+    }
+
+    @else {
+        @return #fff;
+    }
+}
+
 body {
     background: $primary-color;
+    color: set-text-color($primary-color);
 }
 
 .main-header {

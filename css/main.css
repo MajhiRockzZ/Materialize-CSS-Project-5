@@ -6444,7 +6444,8 @@ input[type=range]::-ms-thumb {
     text-align: center;
     margin-top: 1.2rem; } }
 body {
-  background: #00796b; }
+  background: #00796b;
+  color: #fff; }
 
 .main-header {
   background: url(../img/pattern.png);
