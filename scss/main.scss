@@ -1,8 +1,12 @@
 @import './materialize';
 
-// Header
+// Vars
 $header-bg: url(../img/pattern.png);
 $header-height: 300px;
+
+body {
+    background: $primary-color;
+}
 
 .main-header {
     background: $header-bg;
