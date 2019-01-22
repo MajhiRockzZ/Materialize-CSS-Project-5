@@ -6464,3 +6464,8 @@ body {
 
 .card-content {
   color: #00796b; }
+
+.page-footer {
+  background: #212121; }
+  .page-footer .footer-copyright {
+    background: #424242; }
