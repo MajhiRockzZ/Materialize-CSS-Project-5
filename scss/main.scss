@@ -33,10 +33,10 @@ body {
 }
 
 .img-content {
-    display:flex;
+    display: flex;
     flex-direction: column;
     justify-content: center;
-    height:300px ;
+    height: 300px;
 }
 
 .card-content {
@@ -54,3 +54,9 @@ body {
 .modal {
     color: #333;
 }
+
+// .row-1,
+// .row-2,
+// .row-3 {
+//     opacity: 0;
+// }
